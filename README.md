@@ -9,6 +9,7 @@
 ## 数组
 
 - [1. 两数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 
 ## 链表
