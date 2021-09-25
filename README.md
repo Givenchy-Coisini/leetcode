@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 1 道。
+已经完成 6 道。
 
 ## 数组
 
@@ -19,7 +19,10 @@
 
 
 ## 栈
-
+- [20. 有效的括号](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [94. 二叉树的中序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [155. 最小栈](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [234. 回文链表](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 贪心
 
