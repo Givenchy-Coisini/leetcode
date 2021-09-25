@@ -19,7 +19,7 @@
 
 
 ## 栈
-- [20. 有效的括号](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [20. 有效的括号](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 - [94. 二叉树的中序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [155. 最小栈](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [234. 回文链表](https://github.com/Givenchy-Coisini/leetcode/issues/2)
