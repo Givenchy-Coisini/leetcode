@@ -11,7 +11,6 @@
 - [1. 两数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer03. 数组中重复的数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
-- [剑指offer03. 第一个只出现一次的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 
 ## 链表
@@ -49,6 +48,7 @@
 ## 字符串
 - [03. 无重复最长子串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [13. 罗马数字转数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer50. 第一个只出现一次的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 排序
 
