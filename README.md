@@ -4,12 +4,17 @@
 
 ## 进度
 
-已经完成 24 道。
+已经完成 30 道。
 
 ## 数组
 
 - [1. 两数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [189. 旋转数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [268. 丢失的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [283. 移动零](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer03. 数组中重复的数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 
