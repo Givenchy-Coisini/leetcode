@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 32 道。
+已经完成 34 道。
 
 ## 数组
 
@@ -13,6 +13,7 @@
 - [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [189. 旋转数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [202. 快乐数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [268. 丢失的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [283. 移动零](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [350. 两个数组的交集||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
@@ -20,7 +21,7 @@
 
 
 ## 链表
-
+- [160. 相交链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 
 ## 树
 
