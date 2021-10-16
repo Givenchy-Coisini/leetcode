@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 39 道。
+已经完成 40 道。
 
 ## 数组
 
@@ -18,6 +18,8 @@
 - [283. 移动零](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [350. 两个数组的交集||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer03. 数组中重复的数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer04. 二维数组中的查找](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+
 
 
 ## 链表
