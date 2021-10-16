@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 37 道。
+已经完成 39 道。
 
 ## 数组
 
@@ -65,4 +65,5 @@
 
 
 ## 动态规划
-
+- [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
