@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 34 道。
+已经完成 37 道。
 
 ## 数组
 
@@ -22,6 +22,9 @@
 
 ## 链表
 - [160. 相交链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [剑指offer18. 移除链表元素](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [剑指offer24. 反转链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [剑指offer25. 合并两个有序链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 
 ## 树
 
