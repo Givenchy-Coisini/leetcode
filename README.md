@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 44 道。
+已经完成 45 道。
 
 ## 数组
 
@@ -67,6 +67,7 @@
 - [13. 罗马数字转数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [242. 有效的字母异位词](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer50. 第一个只出现一次的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer58. 左转字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 排序
 
