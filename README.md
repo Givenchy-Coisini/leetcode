@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 45 道。
+已经完成 50 道。
 
 ## 数组
 
@@ -19,9 +19,10 @@
 - [350. 两个数组的交集||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer03. 数组中重复的数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer04. 二维数组中的查找](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer17. 打印从1到n的最大n位数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer21. 调整顺序使奇数在数组前面](https://github.com/Givenchy-Coisini/leetcode/issues/2)
-
-
+- [剑指offer29. 顺时针打印矩阵](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer64. 打印从1加到n](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 
 ## 链表
@@ -34,8 +35,9 @@
 ## 树
 - [剑指offer27. 二叉树的镜像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer28. 对称的二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
-
-
+- [剑指offer32. 二叉树的层序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [剑指offer55. 二叉树的深度](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- 
 ## 栈和队列
 - [20. 有效的括号](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 - [94. 二叉树的中序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/2)
