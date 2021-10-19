@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 50 道。
+已经完成 51 道。
 
 ## 数组
 
@@ -60,7 +60,7 @@
 - [剑指offer59. 滑动窗口的最大值](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 贪心
-
+- [55. 跳跃游戏](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
 ## 回溯
 
