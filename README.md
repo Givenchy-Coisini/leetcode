@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 55 道。
+已经完成 56 道。
 
 ## 数组
 
@@ -66,7 +66,7 @@
 - [55. 跳跃游戏](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
 ## 回溯
-
+- [79. 矩阵中的路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 字符串
 - [03. 无重复最长子串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
