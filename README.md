@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 51 道。
+已经完成 52 道。
 
 ## 数组
 
@@ -22,6 +22,7 @@
 - [剑指offer17. 打印从1到n的最大n位数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer21. 调整顺序使奇数在数组前面](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer29. 顺时针打印矩阵](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer57. 和为s的连续正数序列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer64. 打印从1加到n](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 
