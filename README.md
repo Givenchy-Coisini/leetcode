@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 56 道。
+已经完成 57 道。
 
 ## 数组
 
@@ -25,6 +25,7 @@
 - [剑指offer53. 在排序数组中查找数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer56. 数组中出现的次数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer57. 和为s的连续正数序列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer61. 扑克牌中的顺子](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer64. 打印从1加到n](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 
