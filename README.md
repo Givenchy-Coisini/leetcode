@@ -41,7 +41,7 @@
 - [剑指offer27. 二叉树的镜像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer28. 对称的二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer32. 二叉树的层序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/1)
-- [剑指offer32. 二叉搜索树的第k大节点](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [剑指offer54. 二叉搜索树的第k大节点](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer55. 二叉树的深度](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 
 
