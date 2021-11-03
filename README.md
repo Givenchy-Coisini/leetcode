@@ -64,6 +64,9 @@
 - [剑指offer59. 队列中最大值](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer59. 滑动窗口的最大值](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
+## 堆
+- [剑指offer40. 最小的k个数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+
 ## 贪心
 - [55. 跳跃游戏](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
