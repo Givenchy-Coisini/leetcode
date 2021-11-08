@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 61 道。
+已经完成 62 道。
 
 ## 数组
 
@@ -87,5 +87,6 @@
 ## 位运算
 - [剑指offer65. 不做加减乘除的加法](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 ## 动态规划
+- [121. 买卖股票的最佳时机](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
