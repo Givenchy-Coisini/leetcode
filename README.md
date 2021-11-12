@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 62 道。
+已经完成 63 道。
 
 ## 数组
 
@@ -38,6 +38,7 @@
 - [剑指offer62. 圆圈中最后剩下的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 
 ## 树
+- [剑指offer07. 重建二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer27. 二叉树的镜像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer28. 对称的二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer32. 二叉树的层序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/1)
