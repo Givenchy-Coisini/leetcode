@@ -81,6 +81,7 @@
 - [03. 无重复最长子串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [13. 罗马数字转数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [242. 有效的字母异位词](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [剑指offer20. 表示数值的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer50. 第一个只出现一次的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer58. 翻转单词顺序](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer58. 左转字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
