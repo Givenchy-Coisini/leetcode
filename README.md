@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 66 道。
+已经完成 67 道。
 
 ## 数组
 
@@ -87,6 +87,9 @@
 - [剑指offer58. 左转字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 排序
+
+## 分治
+- [50. Pow(x,n)](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 位运算
 - [剑指offer65. 不做加减乘除的加法](https://github.com/Givenchy-Coisini/leetcode/issues/2)
