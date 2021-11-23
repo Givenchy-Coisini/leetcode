@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 63 道。
+已经完成 65 道。
 
 ## 数组
 
@@ -39,6 +39,7 @@
 
 ## 树
 - [剑指offer07. 重建二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [剑指offer26. 树的子结构](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer27. 二叉树的镜像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer28. 对称的二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer32. 二叉树的层序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/1)
@@ -71,6 +72,7 @@
 
 ## 贪心
 - [55. 跳跃游戏](https://github.com/Givenchy-Coisini/leetcode/issues/3)
+- [剑指offer14.剪绳子](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
 ## 回溯
 - [79. 矩阵中的路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
