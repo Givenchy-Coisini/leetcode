@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 67 道。
+已经完成 69 道。
 
 ## 数组
 
@@ -87,7 +87,7 @@
 - [剑指offer58. 左转字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 排序
-
+- [剑指offer45. 把数组排成最小的数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 ## 分治
 - [50. Pow(x,n)](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
