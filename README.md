@@ -97,3 +97,6 @@
 - [121. 买卖股票的最佳时机](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+
+## 数学
+- [剑指offer44. 数字序列中的某位数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
