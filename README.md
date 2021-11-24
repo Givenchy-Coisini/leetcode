@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 69 道。
+已经完成 70 道。
 
 ## 数组
 
@@ -75,6 +75,7 @@
 - [剑指offer14.剪绳子](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
 ## 回溯
+- [47. 字符串的全排列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [79. 矩阵中的路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 字符串
