@@ -4,12 +4,13 @@
 
 ## 进度
 
-已经完成 74 道。
+已经完成 77 道。
 
 ## 数组
 
 - [1. 两数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [15. 三数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [17. 电话号码的字母组合](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
@@ -31,6 +32,7 @@
 
 
 ## 链表
+- [19. 删除链表的倒数第n个节点](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [160. 相交链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer18. 移除链表元素](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer22. 倒数第k个链表元素](https://github.com/Givenchy-Coisini/leetcode/issues/1)
@@ -77,6 +79,7 @@
 - [剑指offer14.剪绳子](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
 ## 回溯
+- [22. 括号生成](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [46. 字符串的全排列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [79. 矩阵中的路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
