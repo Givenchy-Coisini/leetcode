@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 77 道。
+已经完成 81 道。
 
 ## 数组
 
@@ -12,8 +12,10 @@
 - [15. 三数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [17. 电话号码的字母组合](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [34. 在排序数组中查找元素的第一个和最后一个索引](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [162. 寻找峰值](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [189. 旋转数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [202. 快乐数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [268. 丢失的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
@@ -82,6 +84,7 @@
 - [22. 括号生成](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [46. 字符串的全排列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [79. 矩阵中的路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [131. 分割回文串](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 
 ## 字符串
 - [03. 无重复最长子串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
@@ -99,6 +102,7 @@
 - [50. Pow(x,n)](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 位运算
+- [371. 两整数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer65. 不做加减乘除的加法](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 双指针
