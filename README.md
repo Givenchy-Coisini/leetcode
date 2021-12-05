@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 82 道。
+已经完成 83 道。
 
 ## 数组
 
@@ -12,6 +12,7 @@
 - [15. 三数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [17. 电话号码的字母组合](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [33. 搜索旋转排序数组](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [34. 在排序数组中查找元素的第一个和最后一个索引](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
