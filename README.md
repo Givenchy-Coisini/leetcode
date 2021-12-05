@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 83 道。
+已经完成 84 道。
 
 ## 数组
 
@@ -117,4 +117,5 @@
 - [剑指offer46. 把数字翻译成字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 数学
+- [36.有效的数独](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer44. 数字序列中的某位数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
