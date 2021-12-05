@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 81 道。
+已经完成 82 道。
 
 ## 数组
 
@@ -102,6 +102,7 @@
 - [50. Pow(x,n)](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 位运算
+- [29. 两数相除](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [371. 两整数之和](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer65. 不做加减乘除的加法](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
