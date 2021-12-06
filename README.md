@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 84 道。
+已经完成 85 道。
 
 ## 数组
 
@@ -109,6 +109,7 @@
 
 ## 双指针
 - [11. 盛水最多的容器](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [287. 寻找重复的数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 动态规划
 - [121. 买卖股票的最佳时机](https://github.com/Givenchy-Coisini/leetcode/issues/2)
