@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 85 道。
+已经完成 86 道。
 
 ## 数组
 
@@ -79,6 +79,7 @@
 
 ## 贪心
 - [55. 跳跃游戏](https://github.com/Givenchy-Coisini/leetcode/issues/3)
+- [56. 合并区间](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 - [剑指offer14.剪绳子](https://github.com/Givenchy-Coisini/leetcode/issues/3)
 
 ## 回溯
