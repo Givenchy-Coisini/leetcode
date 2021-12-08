@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 87 道。
+已经完成 88 道。
 
 ## 数组
 
@@ -14,6 +14,7 @@
 - [26. 删除有序数组的重复项](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [33. 搜索旋转排序数组](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [34. 在排序数组中查找元素的第一个和最后一个索引](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [48. 旋转图像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [162. 寻找峰值](https://github.com/Givenchy-Coisini/leetcode/issues/1)
