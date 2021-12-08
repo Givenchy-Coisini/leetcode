@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 88 道。
+已经完成 89 道。
 
 ## 数组
 
@@ -17,6 +17,7 @@
 - [48. 旋转图像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [66. 加一](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [128. 最长连续序列](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [162. 寻找峰值](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [189. 旋转数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [202. 快乐数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
