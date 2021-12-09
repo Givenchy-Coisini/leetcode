@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 89 道。
+已经完成 90 道。
 
 ## 数组
 
@@ -95,6 +95,7 @@
 - [05. 最长回文字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [13. 罗马数字转数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [38. 外观数列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [49. 字母异位词分组](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [242. 有效的字母异位词](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer20. 表示数值的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer50. 第一个只出现一次的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
