@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 90 道。
+已经完成 92 道。
 
 ## 数组
 
@@ -117,6 +117,7 @@
 - [287. 寻找重复的数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 动态规划
+- [62. 不同路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [121. 买卖股票的最佳时机](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
@@ -124,4 +125,5 @@
 
 ## 数学
 - [36.有效的数独](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [204. 计数质数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer44. 数字序列中的某位数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
