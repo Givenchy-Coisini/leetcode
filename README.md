@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 97 道。
+已经完成 99 道。
 
 ## 数组
 
@@ -49,6 +49,7 @@
 
 ## 树
 - [208. 实现前缀树](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [230. 二叉搜索树的第k小节点](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer07. 重建二叉树](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer26. 树的子结构](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer27. 二叉树的镜像](https://github.com/Givenchy-Coisini/leetcode/issues/1)
@@ -119,6 +120,7 @@
 
 ## 双指针
 - [11. 盛水最多的容器](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [75. 颜色分类](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [287. 寻找重复的数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
 ## 动态规划
