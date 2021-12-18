@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 103 道。
+已经完成 105 道。
 
 ## 数组
 
@@ -126,10 +126,15 @@
 - [75. 颜色分类](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [287. 寻找重复的数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 
+## 并查集
+- [130. 被围绕的区域](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+
+
 ## 动态规划
 - [62. 不同路径](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [91. 解码方法](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [121. 买卖股票的最佳时机](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [139. 单词拆分](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer46. 把数字翻译成字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
