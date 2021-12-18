@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 102 道。
+已经完成 103 道。
 
 ## 数组
 
@@ -49,6 +49,7 @@
 
 ## 树
 - [98. 验证二叉搜索树](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [103. 二叉树的锯齿形层序遍历](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [116.填充每个节点的下一个右侧节点指针](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [208. 实现前缀树](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [230. 二叉搜索树的第k小节点](https://github.com/Givenchy-Coisini/leetcode/issues/2)
