@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 105 道。
+已经完成 106 道。
 
 ## 数组
 
@@ -20,6 +20,7 @@
 - [118. 杨辉三角](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [128. 最长连续序列](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [162. 寻找峰值](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [179. 最大数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [189. 旋转数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [202. 快乐数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [268. 丢失的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
