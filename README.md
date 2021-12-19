@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 107 道。
+已经完成 108 道。
 
 ## 数组
 
@@ -137,6 +137,7 @@
 - [91. 解码方法](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [121. 买卖股票的最佳时机](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [139. 单词拆分](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [300. 最长递增子序列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer46. 把数字翻译成字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
