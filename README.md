@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 120 道。
+已经完成 121 道。
 
 ## 数组
 
@@ -25,6 +25,7 @@
 - [202. 快乐数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [268. 丢失的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [283. 移动零](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [324. 摆动排序](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [350. 两个数组的交集||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [384. 打乱数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [454. 四数相加||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
