@@ -148,6 +148,7 @@
 
 ## 数学
 - [36.有效的数独](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [166.分数到小数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [172.阶乘后的零](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [204. 计数质数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer44. 数字序列中的某位数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
