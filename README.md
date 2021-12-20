@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 123 道。
+已经完成 126 道。
 
 ## 数组
 
@@ -28,7 +28,9 @@
 - [283. 移动零](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [289. 生命游戏](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [324. 摆动排序](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [341. 扁平化嵌套列表迭代器](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [350. 两个数组的交集||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [380. O(1)的时间获取删除插入随机数](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [384. 打乱数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [454. 四数相加||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer03. 数组中重复的数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
@@ -115,6 +117,7 @@
 - [38. 外观数列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [49. 字母异位词分组](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [242. 有效的字母异位词](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [395. 至少有k个重复字符的子串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer20. 表示数值的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer50. 第一个只出现一次的字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer58. 翻转单词顺序](https://github.com/Givenchy-Coisini/leetcode/issues/2)
