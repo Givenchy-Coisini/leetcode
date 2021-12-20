@@ -40,6 +40,7 @@
 
 ## 链表
 - [19. 删除链表的倒数第n个节点](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [146. LRU缓存机制](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [148. 排序链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [160. 相交链表](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer18. 移除链表元素](https://github.com/Givenchy-Coisini/leetcode/issues/1)
