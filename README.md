@@ -4,7 +4,7 @@
 
 ## 进度
 
-已经完成 116 道。
+已经完成 118 道。
 
 ## 数组
 
@@ -26,6 +26,8 @@
 - [268. 丢失的数字](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [283. 移动零](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [350. 两个数组的交集||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [384. 打乱数组](https://github.com/Givenchy-Coisini/leetcode/issues/1)
+- [454. 四数相加||](https://github.com/Givenchy-Coisini/leetcode/issues/1)
 - [剑指offer03. 数组中重复的数字](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer04. 二维数组中的查找](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer17. 打印从1到n的最大n位数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
