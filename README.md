@@ -143,6 +143,7 @@
 - [279. 完全平方数](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [300. 最长递增子序列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [322. 零钱兑换](https://github.com/Givenchy-Coisini/leetcode/issues/2)
+- [334. 递增的三元子序列](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [509. 斐波那契](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer10. 青蛙跳台阶](https://github.com/Givenchy-Coisini/leetcode/issues/2)
 - [剑指offer46. 把数字翻译成字符串](https://github.com/Givenchy-Coisini/leetcode/issues/2)
